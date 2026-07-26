@@ -1,0 +1,13 @@
+session_id,username,device_os,device_type,session_minutes,views,total_watch_seconds,avg_completion_pct,engagement_quartile
+209,bella.fit,iOS,Phone,20.00,5,129,95.76,1
+202,bella.fit,Android,Phone,27.00,5,126,86.92,1
+204,daniel.photo,iOS,Tablet,30.00,4,124,100.00,1
+210,techdaily,Android,Phone,24.00,4,123,83.73,2
+208,nina.travel,iOS,Phone,32.00,4,100,85.43,2
+207,mike.foodie,Android,Phone,30.00,4,91,75.00,2
+211,campus.life,iOS,Tablet,25.00,4,91,100.00,3
+201,ava.artist,iOS,Phone,15.00,4,79,93.10,3
+205,emily.study,Android,Phone,22.00,4,77,96.25,3
+212,emily.study,iOS,Phone,17.00,4,74,81.60,4
+203,cafe.blue,iOS,Phone,18.00,4,70,72.08,4
+206,freshwear.co,iOS,Phone,25.00,4,65,95.83,4

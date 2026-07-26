@@ -1,0 +1,11 @@
+user_id,username,account_type,like_only_interactions,distinct_content_liked
+5,emily.study,personal,6,6
+1,ava.artist,personal,5,5
+10,campus.life,personal,5,5
+8,nina.travel,creator,5,5
+2,bella.fit,creator,4,4
+3,cafe.blue,business,4,4
+9,techdaily,business,4,4
+4,daniel.photo,creator,3,3
+6,freshwear.co,business,1,1
+7,mike.foodie,creator,1,1

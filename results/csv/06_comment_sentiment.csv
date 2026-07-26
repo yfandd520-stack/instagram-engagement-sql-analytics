@@ -1,0 +1,13 @@
+sentiment_rank,content_id,content_type,caption,comment_count,avg_sentiment,negative_comments
+1,115,Reel,Outfit transition idea,2,0.860,0
+2,104,Reel,Chicago sunset walk,3,0.857,0
+3,102,Post,New spring drink is here,2,0.830,0
+4,101,Reel,Morning workout routine,3,0.817,0
+5,111,Reel,Street photography tips,3,0.777,0
+6,114,Post,Campus event guide,3,0.757,0
+7,108,Story,Coffee behind the scenes,2,0.745,0
+8,105,Post,Film photo from campus,2,0.740,0
+9,109,Reel,Desk reset in 30 seconds,2,0.730,0
+10,113,Reel,Budget tech desk setup,2,0.725,0
+11,107,Post,Freshwear weekend drop,2,0.435,0
+12,106,Reel,Easy breakfast bowl,2,0.345,1

@@ -1,0 +1,9 @@
+user_id,username,account_type,qualifying_signals,reasons,audience_segment
+2,bella.fit,creator,2,"creator_or_business, posted_public_reel",priority
+4,daniel.photo,creator,2,"creator_or_business, posted_public_reel",priority
+6,freshwear.co,business,2,"creator_or_business, posted_public_reel",priority
+7,mike.foodie,creator,2,"creator_or_business, posted_public_reel",priority
+8,nina.travel,creator,2,"creator_or_business, posted_public_reel",priority
+9,techdaily,business,2,"creator_or_business, posted_public_reel",priority
+3,cafe.blue,business,1,creator_or_business,standard
+5,emily.study,personal,1,posted_public_reel,standard
