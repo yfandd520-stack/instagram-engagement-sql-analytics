@@ -304,10 +304,3 @@ The full tests are in [`sql/02_data_quality_checks.sql`](sql/02_data_quality_che
 - Business-question framing and evidence-based communication
 - Technical documentation and reproducible result generation
 
-## 20. Academic-project disclosure
-
-This repository is a refined portfolio edition of a BADM 352 group project completed at the Gies College of Business, University of Illinois Urbana-Champaign. The original relational model, synthetic sample data, and three core analyses were developed collaboratively by a four-person course team.
-
-Yuting Julianna Fan assembled and expanded this portfolio edition by standardizing table and column names, strengthening constraints and indexes, expanding the analysis to ten queries, adding data-quality tests, rebuilding the ER diagram, generating reproducible outputs, and writing the repository documentation.
-
-AI tools supported schema validation, synthetic-data review, SQL debugging, and language refinement. Problem framing, query selection, interpretation, and final portfolio decisions remained human-led.
