@@ -2,7 +2,7 @@
 
 ## 2. One-sentence value proposition
 
-A recruiter-ready MySQL portfolio project that turns 218 synthetic Instagram interaction records into reproducible insights about content performance, attention, creators, hashtags, devices, sentiment, reactions, and audience behavior.
+MySQL portfolio project that turns 218 synthetic Instagram interaction records into reproducible insights about content performance, attention, creators, hashtags, devices, sentiment, reactions, and audience behavior.
 
 ## 3. Project overview
 
